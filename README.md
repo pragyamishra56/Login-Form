@@ -1,6 +1,4 @@
 # Login-Form
-Creating a concise README file for your GitHub repository is crucial for providing users with essential information about your project. Here's a 200-word README example:
-
 ---
 
 # Animated Form with HTML and CSS
